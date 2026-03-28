@@ -1,0 +1,5 @@
+{
+  "name": "CircuitAI: Project Builder & Designer",
+  "description": "An AI-powered platform for building circuits, generating Arduino code, and sharing projects with a community.",
+  "requestFramePermissions": []
+}
